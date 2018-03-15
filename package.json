@@ -1,0 +1,17 @@
+{
+  "name": "home_exercise",
+  "version": "1.0.0",
+  "description": "Home Exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sefi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10",
+    "mysql": "^2.15.0"
+  }
+}
